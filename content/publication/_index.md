@@ -10,6 +10,6 @@ view: 4
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: ""
+  caption: "Shi, Q.; Bourassa, M.A. Coupling Ocean Currents and Waves with Wind Stress over the Gulf Stream. Remote Sens. 2019, 11, 1476."
   image: ""
 ---
