@@ -1,10 +1,10 @@
 ---
-title: "An example journal article"
+title: "Coupling Ocean Currents and Waves with Wind Stress over the Gulf Stream"
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Mark A. Bourassa
+date: "2019-06-21T00:00:00Z"
+doi: "https://doi.org/10.3390/rs11121476"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
