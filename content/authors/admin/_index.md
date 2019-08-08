@@ -18,13 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include earth system modeling, remote sensing, and data analysis/visualization.
 
 interests:
 - Regional weather/climate modeling
 - Air-sea interaction and earth system modeling
 - Remote sensing
-- Data analysis and visulatzation
+- Data analysis and visualization
 
 education:
   courses:
