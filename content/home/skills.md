@@ -27,7 +27,7 @@ subtitle = ""
   description = ""  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "WRF/COAWST"
   description = ""
