@@ -2,7 +2,7 @@
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Experience"
@@ -25,12 +25,7 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = ""
   description = """
-  Responsibilities include:
   
-  * Using a wide range of statistical techniques to analyze satellite data and weather model output
-  * Ocean-atmosphere-ice-coupled model development and validation
-  * Guest lecturer of hydrodynamic modeling
-  """
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -40,11 +35,5 @@ date_format = "Jan 2006"
   date_start = "2010-08-20"
   date_end = "2017-12-20"
   description = """
-  Responsibilities include:
-  
-  * Developed a novel air-sea coupled flux algorithm and implemented it in a coupled Earth system model, resulting in increase the accuracy of air-sea coupling coefficient by 70%
-  * Determined the tropical storm center and radius of maximum wind using microwave satellite observations
-  * Analyzed big data using a variety of statistical techniques, including regression, time-series analysis, dimensionality reduction, and validation methods
-
 
 +++
