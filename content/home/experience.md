@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Using a wide range of statistical techniques to analyze satellite data and weather model output
+  * Ocean-atmosphere-ice-coupled model development and validation
+  * Guest lecturer of hydrodynamic modeling
   """
 
 [[experience]]
@@ -39,6 +39,12 @@ date_format = "Jan 2006"
   location = "Florida"
   date_start = "2010-08-20"
   date_end = "2017-12-20"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """
+  Responsibilities include:
+  
+  * Developed a novel air-sea coupled flux algorithm and implemented it in a coupled Earth system model, resulting in increase the accuracy of air-sea coupling coefficient by 70%
+  * Determined the tropical storm center and radius of maximum wind using microwave satellite observations
+  * Analyzed big data using a variety of statistical techniques, including regression, time-series analysis, dimensionality reduction, and validation methods
+
 
 +++
