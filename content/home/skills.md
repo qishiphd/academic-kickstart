@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
-  description = "90%"
+  description = ""
   
 [[feature]]
-  icon = "fa-linux"
+  icon = "linux"
   icon_pack = "fab"
   name = "Linux"
-  description = "100%"  
+  description = ""  
   
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
-  name = "Fortran"
-  description = "10%"
+  name = "WRF/COAWST"
+  description = ""
 
 +++
