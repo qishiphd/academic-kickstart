@@ -8,8 +8,8 @@ abstract: A High‐resolution three‐dimensional Weather Research and Forecasti
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date_format = "Jan 2006"
-date: "2019-12-21T00:00:00Z"
+#date_format = "Jan 2006"
+#date: "2019-12-21T00:00:00Z"
 #date_end: "2019-12-13T15:40:00Z"
 all_day: false
 
