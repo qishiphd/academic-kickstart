@@ -24,6 +24,11 @@
   weight = 20
 
 [[main]]
+  name = "Talks"
+  url = "#recent"
+  weight = 25
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
